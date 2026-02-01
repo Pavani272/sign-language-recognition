@@ -9,28 +9,31 @@ Performing basic testing and validation
 Providing a scalable base for future real-time gesture recognition enhancements"
 
 **Technologies Used:**
-Python
 
-NumPy
+-Python
 
-OpenCV
+-NumPy
 
-TensorFlow / Keras
+-OpenCV
 
-Machine Learning & Deep Learning concepts
+-TensorFlow / Keras
+
+-Machine Learning & Deep Learning concepts
 
 **Features:**
-Collection of hand gesture datasets.
 
-Gesture recognition powered by machine learning algorithms.
+-Collection of hand gesture datasets.
 
-Flexible design that allows easy expansion to real-time webcam-based usage.
+-Gesture recognition powered by machine learning algorithms.
+
+-Flexible design that allows easy expansion to real-time webcam-based usage.
 
 **Future Enhancements:**
-Live sign language recognition through webcam input.
 
-Integration of MediaPipe for precise and reliable hand tracking.
+-Live sign language recognition through webcam input.
 
-Translation of recognized gestures into text or speech output.
+-Integration of MediaPipe for precise and reliable hand tracking.
 
-Enhanced recognition accuracy using advanced deep learning techniques
+-Translation of recognized gestures into text or speech output.
+
+-Enhanced recognition accuracy using advanced deep learning techniques
