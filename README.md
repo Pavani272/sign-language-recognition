@@ -5,31 +5,23 @@ Sign language is an essential means of communication for individuals with hearin
 The system currently includes support for:
 
 Collecting hand gesture data
-
 Performing basic testing and validation
-
 Providing a scalable base for future real-time gesture recognition enhancements"
-Technologies Used
 
+**Technologies Used:**
 Python
 NumPy
 OpenCV
 TensorFlow / Keras
 Machine Learning & Deep Learning concepts
-Features
 
+**Features:**
 Collection of hand gesture datasets
-
 Gesture recognition powered by machine learning algorithms
-
 Flexible design that allows easy expansion to real-time webcam-based usage
 
-Future Enhancements
-
+**Future Enhancements:**
 Live sign language recognition through webcam input
-
 Integration of MediaPipe for precise and reliable hand tracking
-
 Translation of recognized gestures into text or speech output
-
 Enhanced recognition accuracy using advanced deep learning techniques
